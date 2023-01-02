@@ -4,7 +4,7 @@ As a new employee at Pyber, V. Isualize has given Omar and me an assignment to u
 ## Results
 When comparing the data from Urban, Suburban, and Rural cities, 
 
-![Summary Data Frame.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Module%205%20Summary%20Data%20Frame.png)
+![Revised Summary Data Frame.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Revised%20Module%205%20Summary%20Data%20Frame.png)
 
 
 ![PyBer Fare Summary.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Challenge/PyBer_fare_summary.png)
