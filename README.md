@@ -4,10 +4,10 @@ As a new employee at Pyber, V. Isualize has given Omar and me an assignment to u
 ## Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-[Summary Data Frame.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Module%205%20Summary%20Data%20Frame.png)
+![Summary Data Frame.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Module%205%20Summary%20Data%20Frame.png)
 
 
-[PyBer Fare Summary.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Challenge/PyBer_fare_summary.png)
+![PyBer Fare Summary.png](https://github.com/machudpicchu/PyBer_Analysis/blob/main/Challenge/PyBer_fare_summary.png)
 ## Summary
 Based on the results, three business recommendations to the CEO regarding disparities among the city types include the following:
 ### Recommendation 1
